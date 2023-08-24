@@ -1,4 +1,4 @@
-.env
+contract/.env
 contract/node_modules/
 lottery-react-frontend/node_modules/
 yarn.lock
